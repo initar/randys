@@ -3,7 +3,7 @@
 ### Welcome! The rules are simple:
 
 **- NO FFA IN CENTRAL COURT -**
-Friendly FAA is allowed in the outskirts of the map
+Friendly FAA is allowed in the outskirts of the map -
 FFA is allowed in the designated wooden arena
 ![](https://github.com/initar/randys/blob/main/maps.jpg)
 
