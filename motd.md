@@ -5,7 +5,7 @@
 **- NO FFA IN CENTRAL COURT -**
 Friendly FAA is allowed in the outskirts of the map
 FFA is allowed in the designated wooden arena
-![](https://github.com/PATH/maps.jpg)
+![](https://github.com/initar/randys/blob/main/maps.jpg)
 
 **- BE RESPECTFUL -**
 We DO NOT tolerate any form of racist, homophobic, transphobic, sexist, or discriminatory behavior. Language is also automatically monitored in-game and can lead to a mute or ban.
@@ -21,4 +21,4 @@ Listen to admins, they have the final say, if you feel that an admin is in the w
 
 <a id="Join our Discord!">https://discord.gg/rbb</>
 
-![](https://github.com/PATH/morning.jpg)
+![](https://github.com/nitar/randys/blob/main/morning.jpg)
