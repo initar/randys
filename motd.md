@@ -19,6 +19,6 @@ We do not tolerate the use of cheats, or any third-party software that gives you
 **- USE COMMON SENSE -**
 Listen to admins, they have the final say, if you feel that an admin is in the wrong/abusing their power then please record video evidence, and report it in our discord.
 
-<a id="Join our Discord!">https://discord.gg/rbb</>
+<a id="Join our Discord!">https://discord.gg/rbb
 
-![](https://github.com/nitar/randys/blob/main/morning.jpg)
+![](https://github.com/initar/randys/blob/main/morning.jpg)
